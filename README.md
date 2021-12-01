@@ -1,4 +1,4 @@
-### <h1> 🎵 Pedro Barroso </h1>
+### <h1> Pedro Barroso 🎵 </h1>
 
 <h2> Estudante de programação </h2>
 <h3>
