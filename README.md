@@ -1,10 +1,12 @@
-### <h1>Pedro Barroso ✔ </h1>
+### <h1>Pedro Barroso </h1>
 
-<h2> Estudante de TI </h2>
+<h2> Estudante de programação </h2>
+<h3>
 <ul>
   <li> Linguagens mais utilizadas: HTML, CSS, PHP, C# </li>
   <li> Atualmente estudando: JAVASCRIPT, C, PYTHON </li>
  </ul>
+ <h3>
 <div align="left">
   <a href="https://github.com/pedrobarroso01">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso01&show_icons=true&theme=dark&"/>
