@@ -3,8 +3,8 @@
 <h2> Estudante de programação </h2>
 <h3>
 <ul>
-  <li> Linguagens mais utilizadas: HTML, CSS, PHP, C# </li>
-  <li> Atualmente estudando: JAVASCRIPT, C, PYTHON </li>
+  <li> Linguagens mais utilizadas: HTML, CSS, PHP,  </li>
+  <li> Atualmente estudando: JAVASCRIPT, C#, PYTHON </li>
  </ul>
  <h3>
 <div align="left">
