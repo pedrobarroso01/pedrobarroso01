@@ -3,6 +3,7 @@
 <h2> Estudante de programação </h2>
 <h3>
 <ul>
+  <li> Principal Linguagem: Python </li>
   <li> Atualmente estudando: JAVASCRIPT, C#, PYTHON </li>
  </ul>
  <h3>
