@@ -1,10 +1,10 @@
 ### <h1> Pedro Barroso 🎵 </h1>
 
-<h2> Estudante de programação </h2>
+<h2> Estudante de Desenvolvimento de Sistemas </h2>
 <h3>
 <ul>
   <li> Principal Linguagem: Python </li>
-  <li> Atualmente estudando: JAVASCRIPT, C#, PYTHON </li>
+  <li> Atualmente estudando: Data Science | Cybersecurity | Machine Learning </li>
  </ul>
  <h3>
 <div align="left">
