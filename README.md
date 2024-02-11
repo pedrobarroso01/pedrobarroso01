@@ -3,8 +3,8 @@
 <h2> Estudante de Desenvolvimento de Sistemas </h2>
 <h3>
 <ul>
-  <li> Principal Linguagem: Python </li>
-  <li> Atualmente estudando: Data Science | Cybersecurity | Machine Learning </li>
+  <li> Principais Linguagens: Java, Python </li>
+  <li> Atualmente estudando: Desenvolvimento WEB | Backend | Data Science </li>
  </ul>
  <h3>
 <div align="left">
