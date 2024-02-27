@@ -1,10 +1,10 @@
 ### <h1> Pedro Barroso 🎵 </h1>
 
-<h2> Estudante de Desenvolvimento de Sistemas </h2>
+<h2> Técnico em Desenvolvimento de Sistemas </h2>
 <h3>
 <ul>
   <li> Principais Linguagens: Java, Python </li>
-  <li> Atualmente estudando: Desenvolvimento WEB | Backend | Data Science </li>
+  <li> Atualmente estudando: Desenvolvimento WEB | Backend | Fullstack </li>
  </ul>
  <h3>
 <div align="left">
