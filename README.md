@@ -4,7 +4,7 @@
 <h3>
 <ul>
   <li> Principais Linguagens: Java, Python </li>
-  <li> Atualmente estudando: Desenvolvimento WEB | Backend | Fullstack </li>
+  <li> Atualmente estudando: Desenvolvimento Backend e Fullstack | Engenharia de Dados </li>
  </ul>
  <h3>
 <div align="left">
