@@ -12,7 +12,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso01&show_icons=true&theme=dark&"/> 
 </div>
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/pedro.barroso9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-barroso-13b613227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <br>
